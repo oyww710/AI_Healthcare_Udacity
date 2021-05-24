@@ -106,3 +106,14 @@
 
 [Encounter Definitions](https://www.hl7.org/fhir/encounter-definitions.html)
 
+![image](https://user-images.githubusercontent.com/23666146/119308759-4c4da900-bc22-11eb-925b-5d57a6f44658.png)
+
+![image](https://user-images.githubusercontent.com/23666146/119308813-5bccf200-bc22-11eb-8988-94efb8ceab8d.png)
+
+[Google's Nature Paper](https://www.nature.com/articles/s41746-018-0029-1)
+
+[Google's Patent](https://patents.google.com/patent/US20160042124)
+
+[FHIR](https://www.hl7.org/fhir/overview.html)
+
+[FHIR Overview](https://datica.com/blog/what-is-fhir/)
