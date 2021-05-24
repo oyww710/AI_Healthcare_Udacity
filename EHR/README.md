@@ -104,3 +104,5 @@
 
 ![image](https://user-images.githubusercontent.com/23666146/119307772-0cd28d00-bc21-11eb-872c-7c899303191c.png)
 
+[Encounter Definitions](https://www.hl7.org/fhir/encounter-definitions.html)
+
