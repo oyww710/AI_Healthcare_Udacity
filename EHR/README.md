@@ -93,3 +93,12 @@
 [Github Code](https://github.com/Google-Health/records-research/tree/master/graph-convolutional-transformer)
 
 [EHR](https://eicu-crd.mit.edu/about/eicu/)
+
+## EHR Data Level
+
+![image](https://user-images.githubusercontent.com/23666146/119307278-4d7dd680-bc20-11eb-8aa4-3b3a74292403.png)
+
+![image](https://user-images.githubusercontent.com/23666146/119307308-59699880-bc20-11eb-9cf7-bd874dfccafc.png)
+
+![image](https://user-images.githubusercontent.com/23666146/119307329-65edf100-bc20-11eb-9dd5-70b3661cb045.png)
+
